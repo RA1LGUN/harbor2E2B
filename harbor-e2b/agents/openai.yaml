@@ -1,0 +1,4 @@
+interface:
+  display_name: "Harbor → E2B"
+  short_description: "Run Harbor tasks on Alibaba Cloud E2B with verified templates"
+  default_prompt: "Use $harbor-e2b to prepare a writable image, build an E2B template, and verify a Harbor task."
